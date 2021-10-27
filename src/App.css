@@ -1,0 +1,64 @@
+.Text1 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 10px;
+}
+.Head{
+    text-align: left;
+}
+.gg{
+    padding: 50px 0px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #203A61;
+}
+.Text2 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 10px;
+}
+
+.mg{
+    height: 180px;
+    width: 200px;
+}
+.mg1
+{
+    height: 180px;
+    width: 200px;
+}
+.btn1{
+    background: #0078D4;
+    border-radius: 5px;
+    border: none;
+    width: 190px;
+    height: 45px;
+    font-family: 'Space Mono';
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-top: 25px;
+    cursor:pointer;
+}
+.btn2{
+    background: #0078D4;
+    border-radius: 5px;
+    border: none;
+    width: 190px;
+    height: 45px;
+    font-family: 'Space Mono';
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-top: 25px;
+    cursor:pointer;
+}
+.t1{
+    text-align: center;
+    font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+
+}
